@@ -1,2 +1,2 @@
 # PyScrapped
-A simple Python script for web-scraping HTML elements into a SQL database.
+A simple Python script for web-scraping HTML contents into a SQL database.
